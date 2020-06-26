@@ -1,6 +1,8 @@
+<img src="http://sixness.com/img/sixness-repository-open-graph-template.png" alt="jQuery Pull Out Banner">
+
 ## jQuery Pull Out Banner
 
-Fast and light pull out banner, for jQuery.
+Fast and light pull out banner for jQuery.
 
 ## Quick start
 
