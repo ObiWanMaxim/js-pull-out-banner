@@ -2,7 +2,7 @@
 
 ## jQuery Pull Out Banner
 
-Fast and light pull out banner for jQuery.
+Easy & simple pull out banner for jQuery.
 
 ## Quick start
 
